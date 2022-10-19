@@ -11,6 +11,7 @@ public class Examples {
         some_din.add(2);
         some_din.add(3);
         some_din.add(1);
+        some_din.add(1);
 
         for (Integer x : some_din) {
             System.out.println(x);
